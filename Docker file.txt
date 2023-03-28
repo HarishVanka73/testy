@@ -1,3 +1,0 @@
-FROM httpd:2.4
-COPY ./admin-login.component/Users/User/Downloads/CRS-master/CRS-master/ComplaintRedressal_Fronend/src/app/components/admin-login/index.html
-EXPOSE 80
